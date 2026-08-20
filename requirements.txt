@@ -1,0 +1,9 @@
+tensorflow>=2.12.0
+numpy
+opencv-python-headless
+Pillow
+matplotlib
+seaborn
+scikit-learn
+streamlit
+streamlit-drawable-canvas
