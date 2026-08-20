@@ -112,13 +112,7 @@ MNIST Dataset
 
 ### Setup
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/handwritten-digit-recognizer.git
-   cd handwritten-digit-recognizer
-   ```
-
-2. **Create a virtual environment** (recommended):
+1. **Create a virtual environment** (recommended):
    ```bash
    python -m venv venv
    
@@ -198,9 +192,6 @@ The application will open in your browser at `http://localhost:8501`.
 - **F1-Score**: Harmonic mean of precision and recall
 - **Confusion Matrix**: Shows which digits are commonly confused with each other
 
-## 📸 Screenshots
-
-> Screenshots will be added after running the application.
 
 ### Training History
 *Training and validation accuracy/loss curves over epochs*
