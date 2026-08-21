@@ -86,6 +86,3 @@ handwritten-digit-recognizer/
 - Add data augmentation (slight rotation, scaling) to improve recognition on irregular handwriting.
 - Extend the app to recognize multi-digit numbers instead of single digits.
 - Experiment with adding Batch Normalization to speed up training convergence.
-
-## Author
-Priyanshu
